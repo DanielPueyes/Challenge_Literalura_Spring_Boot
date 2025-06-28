@@ -23,7 +23,9 @@ robusta y profesional utilizando Spring Boot y PostgreSQL.
 
 ## 🧠 Funcionalidades Principales
 
-![](C:\Users\Daniel\Desktop\Curso-De-Alura-Latam\Especializacion-Back-End\Java y String Framework G8-One\Challenge Literalura\LiterAlura\Images\Captura de pantalla 2025-06-28 031451.png)
+![image](https://github.com/user-attachments/assets/0347ee1a-3257-4072-8238-6344ec31b828)
+
+
 
 ### 🔍 Exploración y Registro
 - Buscar libros por nombre desde la API.
