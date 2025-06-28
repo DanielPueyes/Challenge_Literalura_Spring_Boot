@@ -94,11 +94,10 @@ Se consume la API pública Gutendex para obtener libros en dominio público.
 
 📊 Ejemplo de Estadísticas
 
-bash
-Copiar código
 Promedio descargas: 1550.75
 Más descargado: Moby Dick (3010 descargas)
 Menos descargado: Book of Love (720 descargas)
+
 📌 Autor
 📇 Desarrollado por Daniel Pueyes Díaz
-🔗 GitHub: github.com/tuusuario
+🔗 GitHub: https://github.com/DanielPueyes/Challenge_Literalura_Spring_Boot/tree/main/LiterAlura
